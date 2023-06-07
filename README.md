@@ -1,4 +1,3 @@
-# Expense_Tracker
 
 # Expense-Tracker
 Kotlin Project
